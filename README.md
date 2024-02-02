@@ -4,16 +4,16 @@ Data Structure and Algorithms (DSA)
 ___________________________________
 
 
-**Searching**
+**1.Searching**
 ------------
-    1. Linear Search
-    2. Binary Search
-**Sorting**
+    1.1. Linear Search
+    1.2. Binary Search
+**2.Sorting**
 -----------
-**Linked Lists**
+**3.Linked Lists**
 ----------------
-1. Singly Linked List
-       1. 
+3.1. Singly Linked List
+       3.1.1. Linked List Structures
 **Stacks and Queues**
 ---------------------
 **Trees**
